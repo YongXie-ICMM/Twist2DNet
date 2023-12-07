@@ -5,4 +5,5 @@
 
 ## Environment Configuration:
 
-All deatils will be available to public once the maniscript is accepted. Thanks for your interest
+All deatils will be available to public once the manuscript is accepted. Thanks for your interest.
+
