@@ -4,7 +4,8 @@
 ## Project Introduction:
     This is a public repository for deep learning-based Identification and Structural Characterization of Twisted 
     Bilayer Transition Metal Dichalcogenides. The codes 
-    were mainly developed by Mr. Haitao Yang (Email: haitaoyang2022@gmail.com),. 
+    were mainly mainly developed by Mr. Haitao Yang (Email: haitaoyang2022@gmail.com), and verified by ruiqi Hu (ruiqihu@udel.edu), and Dr. Yong Xie (xieyong.nwpu@gmail.com).
+    All the resonable request can be reached by sending emails to Dr. Yong Xie (xieyong.nwpu@gmail.com). 
 
 
 ## Environment Configuration:
